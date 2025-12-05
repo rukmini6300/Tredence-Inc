@@ -1,0 +1,23 @@
+/* Sidebar draggable items */
+.sidebar {
+  width: 220px;
+  padding: 12px;
+  background: #fff;
+  border-right: 1px solid #eee;
+  height: 100vh;
+  box-sizing: border-box;
+}
+.sidebar .item {
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: 1px dashed #ddd;
+  margin-bottom: 8px;
+  cursor: grab;
+  user-select: none;
+  background: #fafafa;
+}
+.sidebar .item:active { cursor: grabbing; }
+.canvas-wrap {
+  width: calc(100% - 220px);
+  height: 100vh;
+}
