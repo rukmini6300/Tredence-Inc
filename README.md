@@ -81,3 +81,5 @@ A React + TypeScript modal component to test workflow nodes by sending them to a
 npm install
 # or
 yarn install
+
+•	![image alt](https://github.com/rukmini6300/Tredence-Inc/blob/f5a1fd5f752edb28f4b94e23d2bc7f5a0dcc8766/Screenshot%20(171).png?raw=true)
